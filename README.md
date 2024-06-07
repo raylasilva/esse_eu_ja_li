@@ -2,6 +2,8 @@
 -----------API BACKEND----------------------
 
 *Descrição do Projeto*
+
+
 "Esse eu já li!" é um portal onde as pessoas podem marcar livros que já leram e ganhar pontos dentro de um sistema de gamificação. Ao fazerem o login no sistema, 
 os usuários veem uma lista de livros. Eles podem clicar para visualizar um livro e marcar que já leram aquele livro. Cada livro lido concede ao usuário 1 ponto, 
 com pontos adicionais baseados no número de páginas do livro. A cada 5 livros lidos de um mesmo estilo, o usuário recebe um troféu específico para aquele estilo.
