@@ -12,7 +12,8 @@ O sistema também exibe um ranking com os 10 usuários de maior pontuação e a 
 ***User Stories***
 
 
-![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/1896dfa2-63ac-4dd5-b23f-846092e2860d)
+![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/d8d78832-2ad2-4258-a09f-c35cda8dd098)
+
 
 
 
@@ -41,7 +42,7 @@ Linguagem de Programação: Java
 
 Framework Web: Spring Boot
 
-Dpendêmcias: DriverMySQL, Hibernate, JPA
+Dependências: DriverMySQL, Hibernate, JPA
 
 Banco de Dados: MySQL
 
