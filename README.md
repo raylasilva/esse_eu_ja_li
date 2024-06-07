@@ -21,7 +21,7 @@ O sistema também exibe um ranking com os 10 usuários de maior pontuação e a 
 
 ![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/93c61283-aeba-4256-bd7b-ce9d723f784f)
 ![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/76089a05-bff9-4ccd-8a9e-ba895da955e5)
-![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/516dd90f-832b-426e-906b-d5693a9b6854)
+![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/a0a749cd-0a4b-4dda-bd36-ca80085e7525)
 ![image](https://github.com/raylasilva/esse_eu_ja_li/assets/77173258/02f687da-8cb4-4401-9335-901849e5cb39)
 
 
@@ -38,9 +38,13 @@ O sistema também exibe um ranking com os 10 usuários de maior pontuação e a 
 *Requisitos Técnicos*
 
 Linguagem de Programação: Java
+
 Framework Web: Spring Boot
+
 Dpendêmcias: DriverMySQL, Hibernate, JPA
+
 Banco de Dados: MySQL
+
 Gerenciamento de Dependências: Maven
 
 
